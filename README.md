@@ -46,14 +46,6 @@ Add images of:
 - Equivalent (von-Mises) stress contour
 ![Image](https://github.com/user-attachments/assets/0be7c5b1-1ffd-4f4e-86f7-d4b8ec1c30b0)
 
-```
-/images/deformation.png
-/images/stress.png
-```
-
-## ✅ Validation
-
-Results obtained from Ansys Mechanical were cross-verified using standard simply-supported beam theory (Euler-Bernoulli beam equations) to confirm accuracy of the FEA model.
 
 ## 🧰 Tools Used
 
@@ -63,4 +55,5 @@ Results obtained from Ansys Mechanical were cross-verified using standard simply
 ## 👤 Author
 
 **Gauransh Diwakar**
+
 B.Tech Mechanical Engineering, IIT Guwahati
