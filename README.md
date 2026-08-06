@@ -39,7 +39,9 @@ Add images of:
 - Equivalent (von-Mises) stress contour
 ![Image](https://github.com/user-attachments/assets/0be7c5b1-1ffd-4f4e-86f7-d4b8ec1c30b0)
 
-
+## 📈 Results
+-Maximum deflection along the span = 4.7187e-005 m
+-Stress and strain distribution across the beam
 ## 🧰 Tools Used
 
 - Ansys Mechanical (Static Structural)
