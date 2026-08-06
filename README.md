@@ -1,6 +1,6 @@
 # ISMB 200 Beam Analysis under UDL — Ansys Mechanical FEA
 
-Finite Element Analysis of an ISMB 200 structural steel beam (6 m span) subjected to a uniformly distributed load of 400 N, performed in Ansys Mechanical. Covers meshing, boundary conditions, deflection, and bending stress results, cross-checked against theoretical calculations.
+Finite Element Analysis of an ISMB 200 structural steel beam (6 m span) subjected to a uniformly distributed load of 400 N, performed in Ansys Mechanical. Covers meshing, boundary conditions, deflection, and bending stress results.
 
 ## 📋 Project Overview
 
@@ -29,13 +29,6 @@ To evaluate the structural behavior of an ISMB 200 beam under a uniformly distri
 5. **Solution** — Static structural analysis solved in Ansys Mechanical.
 6. **Post-Processing** — Deflection and stress contour plots extracted.
 
-## 📊 Results
-
-| Result | FEA (Ansys) | Theoretical | % Difference |
-|---|---|---|---|
-| Max. Deflection | *4.7187e-005* | *TBD* | *TBD* |
-
-*(Replace with your actual computed values)*
 
 ## 🖼️ Screenshots
 
