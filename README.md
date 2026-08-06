@@ -42,9 +42,9 @@ To evaluate the structural behavior of an ISMB 200 beam under a uniformly distri
 Add images of:
 - Meshed model
 - Total deformation contour
-![Image](https://github.com/user-attachments/assets/0be7c5b1-1ffd-4f4e-86f7-d4b8ec1c30b0)
-- Equivalent (von-Mises) stress contour
 ![Image](https://github.com/user-attachments/assets/116d472d-8ddd-48db-9050-3ed476f81691)
+- Equivalent (von-Mises) stress contour
+![Image](https://github.com/user-attachments/assets/0be7c5b1-1ffd-4f4e-86f7-d4b8ec1c30b0)
 
 ```
 /images/deformation.png
